@@ -147,7 +147,7 @@
 					"bug": "11290",
 					"summary": "Selector interpreted as HTML"
 				},
-				"info" : [ "http://bugs.jquery.com/ticket/11290" , "http://research.insecurelabs.org/jquery/test/" ]
+				"info" : [ "http://bugs.jquery.com/ticket/11290" , "http://research.insecurelabs.org/jquery/test/", "https://nvd.nist.gov/vuln/detail/CVE-2012-6708" ]
 			}
 		],
 		"extractors" : {
